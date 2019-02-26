@@ -1,2 +1,2 @@
 <p>Mikulich Uladzislau</p>
-<p>https://www.codecademy.com/users/vladmvg/achievements</p>
+<p>HTML CSS Basics: https://www.codecademy.com/users/vladmvg/achievements</p>
